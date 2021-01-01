@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zlhbstrk/To-Do-List/static/css/main.f263ff9a.chunk.css",
+    "main.js": "/zlhbstrk/To-Do-List/static/js/main.bba6f650.chunk.js",
+    "main.js.map": "/zlhbstrk/To-Do-List/static/js/main.bba6f650.chunk.js.map",
+    "runtime-main.js": "/zlhbstrk/To-Do-List/static/js/runtime-main.93eaf351.js",
+    "runtime-main.js.map": "/zlhbstrk/To-Do-List/static/js/runtime-main.93eaf351.js.map",
+    "static/js/2.dcabb170.chunk.js": "/zlhbstrk/To-Do-List/static/js/2.dcabb170.chunk.js",
+    "static/js/2.dcabb170.chunk.js.map": "/zlhbstrk/To-Do-List/static/js/2.dcabb170.chunk.js.map",
+    "static/js/3.227eaac0.chunk.js": "/zlhbstrk/To-Do-List/static/js/3.227eaac0.chunk.js",
+    "static/js/3.227eaac0.chunk.js.map": "/zlhbstrk/To-Do-List/static/js/3.227eaac0.chunk.js.map",
+    "index.html": "/zlhbstrk/To-Do-List/index.html",
+    "static/css/main.f263ff9a.chunk.css.map": "/zlhbstrk/To-Do-List/static/css/main.f263ff9a.chunk.css.map",
+    "static/js/2.dcabb170.chunk.js.LICENSE.txt": "/zlhbstrk/To-Do-List/static/js/2.dcabb170.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zlhbstrk/To-Do-List/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93eaf351.js",
+    "static/js/2.dcabb170.chunk.js",
+    "static/css/main.f263ff9a.chunk.css",
+    "static/js/main.bba6f650.chunk.js"
+  ]
+}
